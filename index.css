@@ -1,0 +1,10 @@
+.img{
+    width: 30px;
+    height: 30px;
+}
+.green{
+    background-color: green !important;
+}
+.red{
+    background-color: red !important;
+}
